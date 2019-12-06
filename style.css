@@ -1,0 +1,13 @@
+.Flex_box_container{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    display: none;
+}
+
+.Flex_box_container div{
+    width: 150px;
+    height: 150px;
+    color: #000;
+}
